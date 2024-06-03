@@ -13,3 +13,32 @@
  *= require_tree .
  *= require_self
  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: blue;
+  font-size: 2em;
+  margin: 15px;
+}
+
+p {
+  background-color: pink;
+  font-size: 13px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+th {
+  background-color: red;
+  
+}
+
+.newbook {
+ background-color: green; 
+ margin: 30px;
+}
+
