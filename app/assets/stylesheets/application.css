@@ -19,26 +19,26 @@
   box-sizing: border-box;
 }
 
+h1, p, table, .newbook {
+  font-family: verdana, arial, helvetica, sans-serif;
+}
+
 h1 {
-  background-color: blue;
   font-size: 2em;
   margin: 15px;
 }
 
 p {
-  background-color: pink;
   font-size: 13px;
   margin-top: 10px;
   margin-left: 40px;
 }
 
-th {
-  background-color: red;
-  
+table {
+  margin: 30px;
 }
 
 .newbook {
- background-color: green; 
  margin: 30px;
 }
 
